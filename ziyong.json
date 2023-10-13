@@ -115,28 +115,6 @@
             "ext":"./lib/我的小站.json"
         },
         {
-            "key":"csp_XYQHikerAL_阿里云盘网",
-            "name":"📀阿里云盘",
-            "type":3,
-            "api":"csp_XYQHikerAL",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./lib/阿里云盘网.json"
-        },
-        {
-            "key":"csp_XYQHikerAL_豆豆飞",
-            "name":"📀豆豆飞",
-            "type":3,
-            "api":"csp_XYQHikerAL",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./lib/豆豆飞.json"
-        },
-        {
             "key":"csp_XYQHiker_土拨鼠搜索",
             "name":"📀土拨鼠",
             "type":3,
