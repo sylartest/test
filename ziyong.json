@@ -130,8 +130,8 @@
        "name":"达达龟",
        "type":3,
        "api":"csp_XBPQ",
-       "ext":"http://pan.shangui.cc/f/LzZAH3/dadagui.json",
-       "jar":"http://pan.shangui.cc/f/YJXjfy/XBPQ.jar"
+       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/lib/dadagui.json",
+       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/jars/XBPQ.jar"
     },
     {
       "key": "乐猪影视",
