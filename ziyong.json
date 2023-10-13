@@ -121,7 +121,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://127.0.0.1:9978/Download/厂长.json",
-      "jar":"http://pan.shangui.cc/f/YJXjfy/XBPQ.jar"
+      "jar":"./jars/XBPQ.jar"
     },
     
     {
