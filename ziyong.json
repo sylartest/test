@@ -121,7 +121,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/厂长.json",
-      "jar":"./jars/XBPQ.jar"
+      "jar":"./jars/XBPQ.jar;md5;975c8ac43a0f8513bb4d32ca0de03340"
     },
     
     {
