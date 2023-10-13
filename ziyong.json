@@ -27,7 +27,7 @@
         "filterable": 1,
         "changeable": 0,
         "ext": "http://127.0.0.1:9978/file/阿里/token.txt",
-        "jar": "https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/jars/ali.jar"
+        "jar": "https://ghproxy.com/https://usercontent.githubfast.com/raw/sylartest/test/main/jars/ali.jar"
     },
     {
       "key": "AList",
@@ -126,12 +126,12 @@
     },
     
     {
-       "key":"达达龟",
-       "name":"达达龟",
+       "key":"我不是影神",
+       "name":"我不是影神",
        "type":3,
        "api":"csp_XBPQ",
-       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/lib/dadagui.json",
-       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/jars/XBPQ.jar"
+       "ext":"https://ghproxy.com/https://usercontent.githubfast.com/raw/sylartest/test/main/lib/我不是影神.json",
+       "jar":"https://ghproxy.com/https://usercontent.githubfast.com/raw/sylartest/test/main/jars/XBPQ.jar"
     },
     {
       "key": "乐猪影视",
