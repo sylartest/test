@@ -131,7 +131,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./lib/我不是影神.json",
-            "jar": "./jars/XBPQ.jar"
+            "jar": "./jars/XBPQ.jar;md5;975c8ac43a0f8513bb4d32ca0de03340"
         },
         {
             "key": "iqiyi",
