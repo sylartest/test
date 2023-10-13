@@ -130,8 +130,8 @@
        "name":"我不是影神",
        "type":3,
        "api":"csp_XBPQ",
-       "ext":"https://ghproxy.com/https://usercontent.githubfast.com/raw/sylartest/test/main/lib/我不是影神.json",
-       "jar":"https://ghproxy.com/https://usercontent.githubfast.com/raw/sylartest/test/main/jars/XBPQ.jar"
+       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/lib/我不是影神.json",
+       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/jars/XBPQ.jar"
     },
     {
       "key": "乐猪影视",
