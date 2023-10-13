@@ -1,5 +1,5 @@
 {
-  "spider": "http://pan.shangui.cc/f/Z8wBHv/custom_spider.jar;md5;0cd8dd32e89511058fd8e6bceb586a28",
+  "spider": "./jars/custom_spiderxyq.jar;md5;5f97911cc7630b48ed3c69ba545818b5",
   "wallpaper": "http://yun.chuqiuyu.tk",
   "lives": [
     {
@@ -10,14 +10,13 @@
     }
   ],
   "sites": [
-    {
-      "key": "本地",
-      "name": "本地",
-      "type": 3,
-      "api":"csp_Local",
-      "searchable": 0,
-      "changeable": 0
-    },
+    {"key":"csp_LocalFile",
+     "name":"💻本地视频",
+     "type":3,"api":"csp_LocalFile",
+     "searchable":0,
+     "quickSearch":0,
+     "filterable":0,
+     "type_flag":0},
     {
         "key": "csp_KungFu4041",
         "name": "Token设置",
