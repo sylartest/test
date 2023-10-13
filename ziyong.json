@@ -19,6 +19,17 @@
       "changeable": 0
     },
     {
+        "key": "csp_KungFu4041",
+        "name": "Token设置",
+        "type": 3,
+        "api": "csp_KungFu404",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/阿里/token.txt",
+        "jar": "https://ghproxy.com/https://raw.githubusercontent.com/sylartest/test/main/jars/ali.jar"
+    },
+    {
       "key": "AList",
       "name": "AList",
       "type": 3,
