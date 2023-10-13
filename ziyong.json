@@ -126,17 +126,6 @@
             "ext":"./lib/土拨鼠搜索.json"
         },
         {
-            "key":"csp_XYQHiker_DOVX搜索",
-            "name":"📀DOVX",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"./lib/DOVX搜索.json"
-        },
-        {
             "key":"csp_XYQHiker_盘搜索",
             "name":"📀盘搜索",
             "type":3,
