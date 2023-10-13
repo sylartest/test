@@ -51,16 +51,6 @@
             "ext":"./alitoken.txt"
         },
         {
-            "key":"csp_Zhaozy",
-            "name":"📀找资源(搜索)",
-            "type":3,"api":"csp_Zhaozy",
-            "playerType":1,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"./alitoken.txt"
-        },
-        {
             "key":"csp_AliPS",
             "name":"📀喵狸盘搜(搜索)",
             "type":3,"api":"csp_AliPS",
