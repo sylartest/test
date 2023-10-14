@@ -19,11 +19,11 @@
             "searchable": 1,
             "quickSearch": 1
         },
-            {
+    {
       "key": "假293",
       "name": "假293采集",
       "type": 1,
-      "api": "http://59.110.10.220:8099/api.php/provide/vod/?ac=list",
+      "api": "http://59.110.10.220:8099/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
