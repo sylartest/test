@@ -149,14 +149,14 @@
         },
         {
             "key": "看美剧",
-            "name": "看美剧",
+            "name": "看美剧〡XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"./jars/XBPQ.jar",
+            "jar":"./jars/XBPQ.jar;md5;975c8ac43a0f8513bb4d32ca0de03340",
             "ext": "./lib/看美剧.json"
         },
         {
