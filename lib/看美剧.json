@@ -1,0 +1,17 @@
+{
+"站名":"看美剧",
+"嗅探词":".m3u8#.mp4#ALI",
+"主页url":"https://www.kmeiju.com",
+"分类":"电影$1#剧集$2#番剧$4#记录片$39#短片$41",
+"分类url":"https://www.kmeiju.com/Kanshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;x",
+"数组":"class=\"li-img\">&&</a>",
+"副标题":"</i>&&</span></span>",
+"搜索url":"/Kansearch/-------------/?wd={wd}",
+"搜索数组":"<dl>&&</dl>",
+"搜索标题":"名称：&&</strong>",
+"搜索副标题":"class=\"ss1\">&&</span>",
+"播放数组":"class=\"player ckp gdt bf-w&&</ul>",
+"线路二次截取":"class=\"py-tabs\">&&</ul>",
+"线路数组":"<li&&/li>",
+"线路标题":"\">&&<"
+}
