@@ -159,6 +159,16 @@
             "jar":"./jars/XBPQ.jar;md5;975c8ac43a0f8513bb4d32ca0de03340",
             "ext": "./lib/看美剧.json"
         },
+            {
+            "key": "csp_XYQHiker_速映",
+            "name": "速映(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/速映影视.json"
+        },
         {
             "key": "iqiyi",
             "name": "爱奇艺",
