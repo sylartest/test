@@ -19,6 +19,15 @@
             "searchable": 1,
             "quickSearch": 1
         },
+        {
+            "key": "舒渡",
+            "name": "舒渡采集",
+            "type": 1,
+            "api": "https://tv.28mu.cn/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
     {
       "key": "假293",
       "name": "假293采集",
