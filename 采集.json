@@ -10,6 +10,7 @@
             "searchable": 1,
             "quickSearch": 1
         },
+        {"key":"测试1","name":"采集测试1","type":1,"api":"http://win11.asuscomm.com:10010/api.php/provide/vod","searchable":1,"quickSearch":1},
         {
             "key": "小猫咪",
             "name": "猫咪采集",
